@@ -5,10 +5,10 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 from PyQt5 import uic, QtCore, QtGui, QtWidgets
-from hxlib import group
+#from hxlib import group
 import time
-import resources_qr
-import diagramviewer
+import resources_rc
+#import diagramviewer
 
 
 UI_main = "./ui/Calculator.ui"
